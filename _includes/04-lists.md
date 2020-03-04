@@ -20,17 +20,21 @@
 
 **Technology Stack**
 - Python
+
 - Spark
+
 - AWS 
    - S3
    - Athena
    - Glue
    - Lambda
    - Quicksight
-- Scheduling
+   
+- Scheduler
     - Jenkins
     - Chronos
     - Airflow
+    
 - Database
   - PostgreSQL
 
