@@ -61,3 +61,10 @@
 **Academic Background**
 - Bachelors of Electrical Engineering (2016)
 
+------------------------------------
+
+**Hobbies**
+
+- :telescope: Skywatching
+- :bicyclist: Cycling
+
