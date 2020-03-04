@@ -45,11 +45,11 @@
 ------------------------------------
 
 **:hourglass: Past Work Experience**
-- 1 year as _Django Developer_ 
+(i) 1 year as _Django Developer_ 
   - Client: **Zenefits**
-- 1 year as _C Developer_ 
+(ii) 1 year as _C Developer_ 
   - Client: **MasterCard**
-- 6 months as _IOT Developer_ 
+(iii) 6 months as _IOT Developer_ 
   - Client: **Axonize**
 
 ------------------------------------
