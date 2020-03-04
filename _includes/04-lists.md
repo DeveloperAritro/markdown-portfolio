@@ -27,7 +27,12 @@
    - Glue
    - Lambda
    - Quicksight
-- PostgreSQL
+- Scheduling
+    - Jenkins
+    - Chronos
+    - Airflow
+- Database
+  - PostgreSQL
 
 ------------------------------------
 
