@@ -1,8 +1,7 @@
 **Current Job Role**
-- 1.5 years as Big Data Engineer.
-<img src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1502485469/pofv3ukce2bwubwsk1tf.png" width="100" height="100">
-  Client: Funding Circle 
-
+- 1.5 years as Big Data Engineer. 
+  - Client: **Funding Circle**
+<!--<img src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1502485469/pofv3ukce2bwubwsk1tf.png" width="100" height="100">-->
 
 **Domain**
 - Data Engineering
@@ -47,9 +46,12 @@
 ------------------------------------
 
 **Past Work Experience**
-- 1 year as _Django Developer_ for **Zenefits**
-- 1 year as _C Developer_ for **MasterCard**
-- 6 months as _IOT Developer_ for **Axonize**
+- 1 year as _Django Developer_ 
+  - Client: **Zenefits**
+- 1 year as _C Developer_ 
+  - Client: **MasterCard**
+- 6 months as _IOT Developer_ 
+  - Client: **Axonize**
 
 ------------------------------------
 
