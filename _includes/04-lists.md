@@ -2,10 +2,7 @@
 - 1.5 years as Big Data Engineer. 
   - Client: **Funding Circle**
 
-**Domain**
-- Data Engineering
-
-**Projects Undertaken**
+**:computer: Projects Undertaken (Data Engineering)**
 1. Job Scheduling
 - Topic:
 
@@ -15,10 +12,7 @@
 3. 
 - Topic:
 
-**Domain**
-- Data Science
-
-**Projects Undertaken**
+**:computer: Projects Undertaken (Data Science)**
 1. Natural Language Processing
 - Topic:
 
@@ -45,10 +39,13 @@
 ------------------------------------
 
 **:hourglass: Past Work Experience**
+
 (i) 1 year as _Django Developer_ 
   - Client: **Zenefits**
+  
 (ii) 1 year as _C Developer_ 
   - Client: **MasterCard**
+  
 (iii) 6 months as _IOT Developer_ 
   - Client: **Axonize**
 
