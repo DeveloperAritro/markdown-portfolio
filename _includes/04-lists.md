@@ -1,7 +1,6 @@
-**Current Job Role**
+**:hourglass_flowing_sand: Current Job Role**
 - 1.5 years as Big Data Engineer. 
   - Client: **Funding Circle**
-<!--<img src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1502485469/pofv3ukce2bwubwsk1tf.png" width="100" height="100">-->
 
 **Domain**
 - Data Engineering
@@ -38,14 +37,14 @@
 
 ------------------------------------
 
-**Certifications**
+**:books: Certifications**
 - _AWS Certfied Cloud Practitioner_ by **Amazon Web Services** (S3 bucket link)
 -  _Machine Learning Specialisation_ by **University of Washington** (S3 bucket link)
 - _Deep Learning Specialization_ by **deeplearning.ai** (S3 bucket link)
 
 ------------------------------------
 
-**Past Work Experience**
+**:hourglass: Past Work Experience**
 - 1 year as _Django Developer_ 
   - Client: **Zenefits**
 - 1 year as _C Developer_ 
@@ -55,15 +54,15 @@
 
 ------------------------------------
 
-**Publications**
+**:page_facing_up: Publications**
 
 ------------------------------------
 
-**Blogs**
+**:memo: Blogs**
 
 ------------------------------------
 
-**Academic Background**
+**:mortar_board: Academic Background**
 - Bachelors of Electrical Engineering (2016)
 
 ------------------------------------
