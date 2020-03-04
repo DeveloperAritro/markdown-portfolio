@@ -20,7 +20,9 @@
 **Projects Undertaken**
 1. Natural Language Processing
 - Topic:
+
 ------------------------------------
+
 **Technology Stack**
 - Python
 - Spark
@@ -31,16 +33,21 @@
    - Lambda
    - Quicksight
 - PostgreSQL
-------------------------------------
-**Certifications**
 
+------------------------------------
+
+**Certifications**
 - _AWS Certfied Cloud Practitioner_ by **Amazon Web Services** (S3 bucket link)
 -  _Machine Learning Specialisation_ by **University of Washington** (S3 bucket link)
 - _Deep Learning Specialization_ by **deeplearning.ai** (S3 bucket link)
+
 ------------------------------------
+
 **Past Work Experience**
 - 1 year as _Django Developer_ for **Zenefits**
 - 1 year as _C Developer_ for **MasterCard**
 - 6 months as _IOT Developer_ for **Axonize**
+
 ------------------------------------
+
 **Publications**
