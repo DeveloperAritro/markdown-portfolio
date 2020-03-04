@@ -1,5 +1,8 @@
 **Current Job Role**
-- 1.5 years as Big Data Engineer for Funding Circle
+- 1.5 years as Big Data Engineer.
+<img src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1502485469/pofv3ukce2bwubwsk1tf.png" width="100" height="100">
+  Client: Funding Circle 
+
 
 **Domain**
 - Data Engineering
