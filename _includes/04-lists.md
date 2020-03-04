@@ -51,3 +51,13 @@
 ------------------------------------
 
 **Publications**
+
+------------------------------------
+
+**Blogs**
+
+------------------------------------
+
+**Academic Background**
+- Bachelors of Electrical Engineering (2016)
+
