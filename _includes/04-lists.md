@@ -4,17 +4,14 @@
 
 **:computer: Projects Undertaken (Data Engineering)**
 1. Job Scheduling
-- Topic:
+    - Topic:
 
 2. Data Processing
-- Topic:
-
-3. 
-- Topic:
+    - Topic:
 
 **:computer: Projects Undertaken (Data Science)**
 1. Natural Language Processing
-- Topic:
+    - Topic:
 
 ------------------------------------
 
@@ -42,7 +39,7 @@
 
 **:books: Certifications**
 - _AWS Certfied Cloud Practitioner_ by **Amazon Web Services** (S3 bucket link)
--  _Machine Learning Specialisation_ by **University of Washington** (S3 bucket link)
+- _Machine Learning Specialisation_ by **University of Washington** (S3 bucket link)
 - _Deep Learning Specialization_ by **deeplearning.ai** (S3 bucket link)
 
 ------------------------------------
@@ -50,13 +47,13 @@
 **:hourglass: Past Work Experience**
 
 (i) 1 year as _Django Developer_ 
-  - Client: **Zenefits**
+  - Client: **Zenefits** (SanFransisco,US)
   
 (ii) 1 year as _C Developer_ 
-  - Client: **MasterCard**
+  - Client: **MasterCard** (US)
   
 (iii) 6 months as _IOT Developer_ 
-  - Client: **Axonize**
+  - Client: **Axonize** (TelAviv,Israel)
 
 ------------------------------------
 
@@ -65,6 +62,8 @@
 ------------------------------------
 
 **:memo: Blogs**
+- Hackster.io (Link)
+- Medium (Link)
 
 ------------------------------------
 
