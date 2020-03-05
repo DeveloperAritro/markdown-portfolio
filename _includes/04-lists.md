@@ -1,21 +1,32 @@
-**:hourglass_flowing_sand: Current Job Role**
+:hourglass_flowing_sand: **Current Job Role**
 - 1.5 years as Big Data Engineer. 
   - Client: **Funding Circle**
 
-**:computer: Projects Undertaken (Data Engineering)**
+:computer: **Projects Undertaken (Data Engineering)**
 1. Job Scheduling
     - Topic:
 
 2. Data Processing
     - Topic:
 
-**:computer: Projects Undertaken (Data Science)**
+:computer: **Projects Undertaken (Data Science)**
 1. Natural Language Processing
     - Topic:
 
 ------------------------------------
 
-**Technology Stack**
+:computer: **StartUps**
+1. HealthConnect.io
+    - Domain : Healthcare (Medical Data Repository)
+    - Portal :
+    
+2. DonateForLife.io
+    - Domain : Healthcare (Organ Donation)
+    - Portal :
+
+------------------------------------
+
+:rocket: **Technology Stack**
 - Python
 
 - Spark
@@ -44,7 +55,7 @@
 
 ------------------------------------
 
-**:hourglass: Past Work Experience**
+:hourglass: **Past Work Experience**
 
 (i) 1 year as _Django Developer_ 
   - Client: **Zenefits** (SanFransisco,US)
@@ -57,17 +68,17 @@
 
 ------------------------------------
 
-**:page_facing_up: Publications**
+:page_facing_up: **Publications**
 
 ------------------------------------
 
-**:memo: Blogs**
+:memo: **Blogs**
 - Hackster.io (Link)
 - Medium (Link)
 
 ------------------------------------
 
-**:mortar_board: Academic Background**
+:mortar_board: **Academic Background**
 - Bachelors of Electrical Engineering (2016)
 
 ------------------------------------
