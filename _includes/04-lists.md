@@ -90,7 +90,7 @@
 
 ------------------------------------
 
-**Contact Info:**
+**Contact Info**
 
 :office: Bangalore, India
 :house: Kolkata, India
