@@ -15,18 +15,18 @@
 
 ------------------------------------
 
-:computer: **StartUps**
-1. HealthConnect.io
+:rocket: **StartUps**
+1. HealthConnect.io :microscope: :clipboard:
     - Domain : Healthcare (Medical Data Repository)
     - Portal :
     
-2. DonateForLife.io
+2. DonateForLife.io :hospital:
     - Domain : Healthcare (Organ Donation)
     - Portal :
 
 ------------------------------------
 
-:rocket: **Technology Stack**
+:pushpin: **Technology Stack**
 - Python
 
 - Spark
