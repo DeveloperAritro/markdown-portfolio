@@ -82,7 +82,9 @@
 ------------------------------------
 
 :mortar_board: **Academic Background**
-- Bachelors of Electrical Engineering (2016)
+- Bachelors of Electrical Engineering (2012-2016)
+- Masters of Computer Science Engineering (2021-2025)
+- Post Graduate Diploma in Management | MBA
 
 ------------------------------------
 
