@@ -1,5 +1,7 @@
 title: Aritro Mukherjee
-description: Electrical Engineer (BTech) | Computer Science Engineer (MTech)
+bachelors: Electrical Engineer (BTech) 
+masters: Computer Science Engineer (MTech)
+specialisation: Data Science & Engineering
 theme: jekyll-theme-dinky
 plugins:
   - jemoji
