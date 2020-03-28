@@ -45,7 +45,10 @@
     
 - Database
   - PostgreSQL
-
+  
+- Web Frameworks
+  - Django
+  
 ------------------------------------
 
 **:books: Certifications**
