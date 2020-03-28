@@ -1,2 +1,1 @@
-
-
+In pursuit of Excellence!
