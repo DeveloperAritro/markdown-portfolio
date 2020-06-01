@@ -24,6 +24,8 @@
     - Domain : Healthcare (Organ Donation)
     - Portal :
 
+3. Smartify
+    - Domain : Predictive Analytics for Digital Twins
 ------------------------------------
 
 :pushpin: **Technology Stack**
@@ -83,8 +85,8 @@
 
 :mortar_board: **Academic Background**
 - Bachelors of Electrical Engineering (2012-2016)
-- Masters of Computer Science Engineering (2021-2025)
-- Post Graduate Diploma in Management | MBA
+- Masters of Computer Science Engineering (2021-2022)
+- Post Graduate Diploma in Management MBA (2023-2025)
 
 ------------------------------------
 
