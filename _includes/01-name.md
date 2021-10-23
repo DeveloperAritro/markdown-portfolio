@@ -1,1 +1,1 @@
-In pursuit of Excellence!
+In search for a purpose
