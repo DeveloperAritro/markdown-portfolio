@@ -4,6 +4,21 @@
   - Domain: FinTech
   - Stack: AWS, Airflow, Terraform, PostgreSQL
   - Employer: Altimetrik
+  
+------------------------------------
+
+**:books: Certifications [FUTURE]** 
+- _AWS Certfied Cloud Practitioner_ by **Amazon Web Services** (S3 bucket link) 
+- _Machine Learning Specialisation_ by **University of Washington** (S3 bucket link) 
+- _Deep Learning Specialization_ by **deeplearning.ai** (S3 bucket link) 
+
+------------------------------------
+
+:computer: **Coding Platform**
+
+:small_blue_diamond: [Hackerrank](https://www.hackerrank.com/developeraritro)
+
+:small_blue_diamond: [Codechef](https://www.codechef.com/)
 
 ------------------------------------
 
@@ -59,13 +74,6 @@
 - Web Frameworks
   - Django
   
-------------------------------------
-
-**:books: Certifications [FUTURE]** 
-- _AWS Certfied Cloud Practitioner_ by **Amazon Web Services** (S3 bucket link) 
-- _Machine Learning Specialisation_ by **University of Washington** (S3 bucket link) 
-- _Deep Learning Specialization_ by **deeplearning.ai** (S3 bucket link) 
-
 ------------------------------------
 
 :hourglass_flowing_sand: **Past Work Experience**
