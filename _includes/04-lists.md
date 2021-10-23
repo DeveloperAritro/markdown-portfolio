@@ -1,6 +1,6 @@
 :hourglass_flowing_sand: **Current Job Role**
-- 1.5 years as Big Data Engineer. 
-  - Client: **Funding Circle**
+- 1 year as Senior Data Engineer | FinTech
+  - Employer: **Altimetrik**
 
 :computer: **Projects Undertaken (Data Engineering)**
 1. Job Scheduling
@@ -26,6 +26,7 @@
 
 3. Smartify
     - Domain : Predictive Analytics for Digital Twins
+
 ------------------------------------
 
 :pushpin: **Technology Stack**
@@ -53,22 +54,25 @@
   
 ------------------------------------
 
-**:books: Certifications**
-- _AWS Certfied Cloud Practitioner_ by **Amazon Web Services** (S3 bucket link)
-- _Machine Learning Specialisation_ by **University of Washington** (S3 bucket link)
-- _Deep Learning Specialization_ by **deeplearning.ai** (S3 bucket link)
+**:books: Certifications** 
+- _AWS Certfied Cloud Practitioner_ by **Amazon Web Services** (S3 bucket link) **[PENDING]**
+- _Machine Learning Specialisation_ by **University of Washington** (S3 bucket link) **[PENDING]**
+- _Deep Learning Specialization_ by **deeplearning.ai** (S3 bucket link) **[PENDING]**
 
 ------------------------------------
 
 :hourglass: **Past Work Experience**
 
-(i) 1 year as _Django Developer_ 
+(i) 2 years as _Data Engineer_ | FinTech
+   - Client: **FundingCircle** (London,UK)
+
+(ii) 1 year as _Django Developer_ 
   - Client: **Zenefits** (SanFransisco,US)
   
-(ii) 1 year as _C Developer_ 
+(iii) 1 year as _C Developer_ 
   - Client: **MasterCard** (US)
   
-(iii) 6 months as _IOT Developer_ 
+(iv) 6 months as _IOT Developer_ 
   - Client: **Axonize** (TelAviv,Israel)
 
 ------------------------------------
@@ -85,8 +89,8 @@
 
 :mortar_board: **Academic Background**
 - Bachelors of Electrical Engineering (2012-2016)
-- Masters of Computer Science Engineering (2021-2022)
-- Post Graduate Diploma in Management MBA (2023-2025)
+- Masters of Computer Science Engineering (2021-2022) **[PENDING]**
+- Post Graduate Diploma in Management MBA (2023-2025) **[PENDING]**
 
 ------------------------------------
 
