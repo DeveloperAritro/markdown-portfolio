@@ -1,5 +1,6 @@
 :man_technologist: **Current Job Role**
->**Senior Data Engineer (Sept 2021 - present)**
+
+**Senior Data Engineer (Sept 2021 - present)**
   - Domain: FinTech
   - Stack: AWS, Airflow, Terraform, PostgreSQL
   - Employer: Altimetrik
@@ -7,14 +8,15 @@
 ------------------------------------
 
 :computer: **Projects Undertaken**
->**Data Engineering**
+
+**Data Engineering**
 1. Job Scheduling
     - Topic:
 
 2. Data Processing
     - Topic:
 
->**Data Science**
+**Data Science**
 1. Natural Language Processing
     - Topic:
 
