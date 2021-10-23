@@ -61,10 +61,10 @@
   
 ------------------------------------
 
-**:books: Certifications** 
-- _AWS Certfied Cloud Practitioner_ by **Amazon Web Services** (S3 bucket link) **[PENDING]**
-- _Machine Learning Specialisation_ by **University of Washington** (S3 bucket link) **[PENDING]**
-- _Deep Learning Specialization_ by **deeplearning.ai** (S3 bucket link) **[PENDING]**
+**:books: Certifications [FUTURE]** 
+- _AWS Certfied Cloud Practitioner_ by **Amazon Web Services** (S3 bucket link) 
+- _Machine Learning Specialisation_ by **University of Washington** (S3 bucket link) 
+- _Deep Learning Specialization_ by **deeplearning.ai** (S3 bucket link) 
 
 ------------------------------------
 
@@ -96,8 +96,10 @@
 
 :mortar_board: **Academic Background**
 - Bachelors of Electrical Engineering (2012-2016)
-- Masters of Computer Science Engineering (2021-2022) **[PENDING]**
-- Post Graduate Diploma in Management MBA (2023-2025) **[PENDING]**
+------------------------------------
+:mortar_board: **Academic Background [FUTURE]**
+- Masters of Computer Science Engineering
+- Post Graduate Diploma in Management MBA 
 
 ------------------------------------
 
