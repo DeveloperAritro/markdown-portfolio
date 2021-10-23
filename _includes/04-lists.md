@@ -1,6 +1,8 @@
-:hourglass_flowing_sand: **Current Job Role**
-- 1 year as Senior Data Engineer | FinTech
-  - Employer: **Altimetrik**
+:man_technologist: **Current Job Role**
+> Senior Data Engineer (Sept 2021 - present)
+  - Domain: FinTech
+  - Stack: AWS, Airflow, Terraform, PostgreSQL
+  - Employer: Altimetrik
 
 :computer: **Projects Undertaken (Data Engineering)**
 1. Job Scheduling
@@ -61,7 +63,7 @@
 
 ------------------------------------
 
-:hourglass: **Past Work Experience**
+:hourglass_flowing_sand: **Past Work Experience**
 
 (i) 2 years as _Data Engineer_ | FinTech
    - Client: **FundingCircle** (London,UK)
@@ -98,6 +100,7 @@
 
 - :telescope: Skywatching
 - :bicyclist: Cycling
+- :blue_car: Driving
 
 ------------------------------------
 
